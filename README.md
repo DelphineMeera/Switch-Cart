@@ -1,4 +1,3 @@
-ItemExchange
-============
+# Switch Cart
 
-A global system for buying and selling items, helping players to buy cheap and sell high.
+Item Exchange is a web application that enables users to post details of items they want to exchange and facilitates trade requests between users. The platform supports secure and user-friendly item barter transactions, allowing users to browse available items, send trade requests, and accept exchanges.
